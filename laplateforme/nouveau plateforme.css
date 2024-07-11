@@ -1,0 +1,43 @@
+body{
+   background-repeat:no-repeat ;
+ background-image: url("img/savane.jpg");  
+ background-size: 1520px ;
+ width: 900px;
+ height: 800px;
+
+ 
+}
+ 
+h1{
+
+ color:rgba(54, 0, 152, 0.762);   
+
+}
+
+.navigation {text-align: right;
+background-color:whitesmoke;
+width: 600px;
+
+}
+
+
+.bouton{
+margin-left: auto;
+text-align:end;
+background-color: bisque ;
+width: 350px;
+
+}
+
+.over{
+
+
+   background-color: antiquewhite;
+   width: 500px;
+   display: inline-flex;
+}
+
+
+
+
+   

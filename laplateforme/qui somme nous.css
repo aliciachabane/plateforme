@@ -1,0 +1,60 @@
+body {
+   
+
+
+   background-image: url(img/robot\ alien.jpg);
+   background-repeat:no-repeat ;
+   -webkit-background-size:cover ;
+
+  
+} 
+
+
+.alien{
+
+width: 100px;
+height: 100px;
+
+
+
+}
+
+html, body{
+margin: 0%;
+
+
+}
+
+
+
+
+
+
+
+
+h1{
+   color: rgb(19, 219, 12);
+   text-align: center;
+   background-color: black;   
+   margin: 60px auto;
+   padding: 2px 5px;
+   border: 10px solid black;
+   height: 5vh;
+   width: 18vw;
+   
+   
+
+}
+
+
+
+.icone  {
+
+border-radius: 50%;
+
+
+
+
+}
+
+
